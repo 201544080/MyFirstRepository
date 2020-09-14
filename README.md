@@ -1,2 +1,4 @@
 # MyFirstRepository
-Tutorial Repository
+201544080/김석진/C반
+
+1 과사무실직접수령 
